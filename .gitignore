@@ -3,3 +3,6 @@
 *.tfstate.backup
 github_key
 github_key.pub
+github_key
+github_key.pub
+.terraform/
