@@ -1,0 +1,5 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+github_key
+github_key.pub
